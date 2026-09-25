@@ -6,6 +6,10 @@ This project performs Exploratory Data Analysis (EDA) on campus placement data t
 
 The analysis focuses on academic performance, technical skills, soft skills, aptitude, internships, projects, work experience, backlogs, and placement status.
 
+**Developed by:** Sargam Tryambak Khillare  
+**MCA – First Year**  
+**Deogiri College, Chhatrapati Sambhajinagar**
+
 ## Objectives
 
 - Understand the structure and attributes of the dataset
@@ -65,9 +69,9 @@ The project follows these major steps:
 Different visualization techniques are used to understand patterns and relationships in the dataset, including:
 
 - Histograms
-- Box plots
-- Scatter plots
-- Count plots
+- Box Plots
+- Scatter Plots
+- Count Plots
 - Heatmaps
 
 ## Key Insights
@@ -76,19 +80,10 @@ The analysis explores how technical skills, aptitude, communication skills, inte
 
 The project report indicates that practical exposure and skill-based competencies are important factors to examine along with academic performance.
 
-
 ## How to Run
 
 1. Install Python.
 2. Install the required libraries:
-bash
+
+```bash
 pip install pandas numpy matplotlib seaborn jupyter
-
-
-**##Developed By**
-
-**Sargam Tryambak Khillare**
-MCA – First Year  
-Deogiri College, Chhatrapati Sambhajinagar
-Academic Project
-
