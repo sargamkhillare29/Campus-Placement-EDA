@@ -80,15 +80,13 @@ The project report indicates that practical exposure and skill-based competencie
 
 1. Install Python.
 2. Install the required libraries:
-
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 
-## Author
 
+
+**## Author**
 **Sargam Tryambak Khillare**
-
 MCA – First Year  
 Deogiri College, Chhatrapati Sambhajinagar
-
 Academic Project
