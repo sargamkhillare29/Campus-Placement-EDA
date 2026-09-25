@@ -76,16 +76,19 @@ The analysis explores how technical skills, aptitude, communication skills, inte
 
 The project report indicates that practical exposure and skill-based competencies are important factors to examine along with academic performance.
 
-**## Author**
+
+## How to Run
+
+1. Install Python.
+2. Install the required libraries:
+bash
+pip install pandas numpy matplotlib seaborn jupyter
+
+
+**##Developed By**
 
 **Sargam Tryambak Khillare**
 MCA – First Year  
 Deogiri College, Chhatrapati Sambhajinagar
 Academic Project
 
-## How to Run
-
-1. Install Python.
-2. Install the required libraries:
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
